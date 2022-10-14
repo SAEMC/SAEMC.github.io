@@ -1,3 +1,8 @@
+---
+hide:
+  - footer
+---
+
 # Home
 
 ## Base

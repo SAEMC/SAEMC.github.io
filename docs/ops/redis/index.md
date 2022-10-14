@@ -1,1 +1,6 @@
+---
+hide:
+  - footer
+---
+
 # Redis Index

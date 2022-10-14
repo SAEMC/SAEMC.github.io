@@ -38,6 +38,7 @@ theme:
     - search.suggest
     - search.highlight
     - header.autohide
+    - announce.dismiss
 
   icon:
     repo: fontawesome/brands/github
@@ -101,6 +102,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/SAEMC
       name: SAEMC's Github
+  generator: false
 
 copyright: >
   Copyright &copy; 2022 SAEMC

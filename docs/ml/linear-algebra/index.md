@@ -1,1 +1,6 @@
+---
+hide:
+  - footer
+---
+
 # LinAlg Index

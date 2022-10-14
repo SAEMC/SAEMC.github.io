@@ -1,1 +1,6 @@
+---
+hide:
+  - footer
+---
+
 # C Index
