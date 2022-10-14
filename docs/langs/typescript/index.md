@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# TS Index
+# TypeScript

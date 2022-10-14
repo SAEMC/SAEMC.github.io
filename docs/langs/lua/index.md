@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# Lua Index
+# Lua

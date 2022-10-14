@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# Celery Index
+# Celery

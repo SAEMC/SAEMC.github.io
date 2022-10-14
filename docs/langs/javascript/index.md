@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# JS Index
+# JavaScript

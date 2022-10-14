@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# Nginx Index
+# Nginx

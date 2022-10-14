@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# MongoDB Index
+# MongoDB

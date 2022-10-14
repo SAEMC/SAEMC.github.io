@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# Kube Index
+# Kubernetes

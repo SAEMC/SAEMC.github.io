@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# DC Index
+# Docker Compose

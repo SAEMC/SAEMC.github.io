@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# HTML and CSS Index
+# HTML and CSS

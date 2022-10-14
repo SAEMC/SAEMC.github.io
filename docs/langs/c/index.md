@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# C Index
+# C

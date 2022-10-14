@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# Python Index
+# Python

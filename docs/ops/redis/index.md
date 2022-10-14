@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# Redis Index
+# Redis

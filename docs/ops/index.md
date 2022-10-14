@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# Ops Index
+# Ops

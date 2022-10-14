@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# Extra Index
+# Extra

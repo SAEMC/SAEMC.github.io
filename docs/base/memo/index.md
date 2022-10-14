@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# Memo Index
+# Memo

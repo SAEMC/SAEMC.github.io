@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# Base Index
+# Base

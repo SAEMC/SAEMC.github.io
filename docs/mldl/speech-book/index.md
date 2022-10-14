@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# SB Index
+# Speech Book

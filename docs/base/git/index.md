@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# Git Index
+# Git

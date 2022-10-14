@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# BASH Index
+# BASH

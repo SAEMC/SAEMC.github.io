@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# LinAlg Index
+# Linear Algebra

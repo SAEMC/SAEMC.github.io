@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# SQL Index
+# SQL

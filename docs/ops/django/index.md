@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# Django Index
+# Django

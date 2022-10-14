@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# FastAPI Index
+# FastAPI

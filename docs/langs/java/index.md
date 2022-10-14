@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# Java Index
+# Java
