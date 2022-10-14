@@ -3,6 +3,11 @@ define: &_primary_color "pink"
 define: &_accent_color "pink"
 
 site_name: SAEMC's Note
+repo_url: https://github.com/SAEMC/SAEMC.github.io.git
+repo_name: SAEMC/SAEMC.github.io
+
+plugins:
+  - search
 
 theme:
   name: material
@@ -42,6 +47,27 @@ theme:
 
   icon:
     repo: fontawesome/brands/github
+
+extra:
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    actions:
+      - accept
+      - manage
+      - reject
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/SAEMC
+      name: SAEMC's Github
+
+copyright: >
+  Copyright &copy; 2022 SAEMC -
+  <a href="#__consent">Change cookie settings</a>
 
 nav:
   - Home: index.md
@@ -83,30 +109,3 @@ nav:
     - Celery:
       - ops/celery/index.md
       - Celery-1: ops/celery/001.md
-
-repo_url: https://github.com/SAEMC/SAEMC.github.io.git
-repo_name: SAEMC/SAEMC.github.io
-
-plugins:
-  - search
-
-extra:
-  consent:
-    title: Cookie consent
-    description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
-    actions:
-      - accept
-      - manage
-      - reject
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/SAEMC
-      name: SAEMC's Github
-
-copyright: >
-  Copyright &copy; 2022 SAEMC -
-  <a href="#__consent">Change cookie settings</a>
