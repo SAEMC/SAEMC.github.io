@@ -100,13 +100,13 @@ extra:
       make our documentation better.
     actions:
       - accept
-      - reject
       - manage
+      - reject
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/SAEMC
       name: SAEMC's Github
-  generator: false
 
 copyright: >
-  Copyright &copy; 2022 SAEMC
+  Copyright &copy; 2022 SAEMC -
+  <a href="#__consent">Change cookie settings</a>
