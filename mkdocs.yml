@@ -101,6 +101,7 @@ extra:
     actions:
       - accept
       - reject
+      - manage
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/SAEMC
