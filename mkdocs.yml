@@ -64,17 +64,17 @@ nav:
     - C:
       - langs/c/index.md
       - C-1: langs/c/001.md
-  - ML: 
-    - ml/index.md
-    - Linear-Algebra:
-      - ml/linear-algebra/index.md
-      - LinAlg-1: ml/linear-algebra/001.md
-    - Speech-Book:
-      - ml/speech-book/index.md
-      - SB-1: ml/speech-book/001.md
+  - ML/DL: 
+    - mldl/index.md
+    - Linear Algebra:
+      - mldl/linear-algebra/index.md
+      - LinAlg-1: mldl/linear-algebra/001.md
+    - Speech Book:
+      - mldl/speech-book/index.md
+      - SB-1: mldl/speech-book/001.md
     - Extra:
-      - ml/extra/index.md
-      - Extra-1: ml/extra/001.md
+      - mldl/extra/index.md
+      - Extra-1: mldl/extra/001.md
   - Ops: 
     - ops/index.md
     - Angular:
