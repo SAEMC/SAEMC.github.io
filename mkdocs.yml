@@ -1,3 +1,106 @@
-site_name: My Docs
+# theme variables
+define: &_primary_color "pink"
+define: &_accent_color "pink"
+
+site_name: SAEMC's Note
+
 theme:
   name: material
+  favicon: assets/logo.ico
+  logo: assets/logo.ico
+
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: *_primary_color
+      accent: *_accent_color
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: *_primary_color
+      accent: *_accent_color
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sticky
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - header.autohide
+
+  icon:
+    repo: fontawesome/brands/github
+
+nav:
+  - Home: index.md
+  - Base: 
+    - base/index.md
+    - Memo:
+      - base/memo/index.md
+      - Memo-1: base/memo/001.md
+    - Git:
+      - base/git/index.md
+      - Git-1: base/git/001.md
+    - Kubernetes:
+      - base/kubernetes/index.md
+      - Kube-1: base/kubernetes/001.md
+  - Langs: 
+    - langs/index.md
+    - BASH:
+      - langs/bash/index.md
+      - BASH-1: langs/bash/001.md
+    - C:
+      - langs/c/index.md
+      - C-1: langs/c/001.md
+  - ML: 
+    - ml/index.md
+    - Linear-Algebra:
+      - ml/linear-algebra/index.md
+      - LinAlg-1: ml/linear-algebra/001.md
+    - Speech-Book:
+      - ml/speech-book/index.md
+      - SB-1: ml/speech-book/001.md
+    - Extra:
+      - ml/extra/index.md
+      - Extra-1: ml/extra/001.md
+  - Ops: 
+    - ops/index.md
+    - Angular:
+      - ops/angular/index.md
+      - Angular-1: ops/angular/001.md
+    - Celery:
+      - ops/celery/index.md
+      - Celery-1: ops/celery/001.md
+
+repo_url: https://github.com/SAEMC/SAEMC.github.io.git
+repo_name: SAEMC/SAEMC.github.io
+
+plugins:
+  - search
+
+extra:
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/SAEMC
+      name: SAEMC's Github
+
+copyright: >
+  Copyright &copy; 2022 SAEMC
