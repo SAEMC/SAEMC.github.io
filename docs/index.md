@@ -8,5 +8,5 @@ hide:
 # SAEMC's Note
 
 <figure markdown>
-  ![Whale-home](../assets/images/whale/home.png){ load=lazy width=100% }
+  ![Whale-home](assets/images/whale/home.png){ load=lazy width=100% }
 </figure>
