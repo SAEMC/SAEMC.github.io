@@ -6,4 +6,4 @@ hide:
 
 # Ops
 
-![Whale 004](../assets/images/whale/004.png){ align=left load=lazy width=100% }
+![Whale-ops](../assets/images/whale/ops.png){ align=left load=lazy width=100% }

@@ -6,4 +6,4 @@ hide:
 
 # Langs
 
-![Whale 002](../assets/images/whale/002.png){ align=left load=lazy width=100% }
+![Whale-langs](../assets/images/whale/langs.png){ align=left load=lazy width=100% }

@@ -6,4 +6,4 @@ hide:
 
 # Base
 
-![Whale 001](../assets/images/whale/001.png){ align=left load=lazy width=100% }
+![Whale-base](../assets/images/whale/base.png){ align=left load=lazy width=100% }

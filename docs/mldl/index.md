@@ -6,4 +6,4 @@ hide:
 
 # ML
 
-![Whale 003](../assets/images/whale/003.png){ align=left load=lazy width=100% }
+![Whale-mldl](../assets/images/whale/mldl.png){ align=left load=lazy width=100% }
