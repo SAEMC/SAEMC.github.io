@@ -1,18 +1,41 @@
 # theme variables
-define: &_primary_color "pink"
-define: &_accent_color "pink"
+define: &_primary_color "blue"
+define: &_accent_color "blue"
 
+# Project information
 site_name: SAEMC's Note
+site_url: "https://SAEMC/SAEMC.github.io/"
+
+# Repository
 repo_url: https://github.com/SAEMC/SAEMC.github.io.git
 repo_name: SAEMC/SAEMC.github.io
 
-plugins:
-  - search
+# Copyright
+copyright: >
+  Copyright &copy; 2022 SAEMC -
+  <a href="#__consent">Change cookie settings</a>
 
+# Configuration
 theme:
   name: material
-  favicon: assets/logo.ico
-  logo: assets/logo.ico
+
+  # Static files
+  static_templates:
+    - 404.html
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sticky
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - header.autohide
+    - announce.dismiss
 
   palette:
     # Palette toggle for light mode
@@ -33,21 +56,21 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
 
-  features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.sticky
-    - navigation.indexes
-    - toc.follow
-    - search.suggest
-    - search.highlight
-    - header.autohide
-    - announce.dismiss
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  favicon: assets/logo.ico
+  logo: assets/logo.ico
 
   icon:
     repo: fontawesome/brands/github
 
+# Plugins
+plugins:
+  - search
+
+# Customization
 extra:
   consent:
     title: Cookie consent
@@ -65,10 +88,7 @@ extra:
       link: https://github.com/SAEMC
       name: SAEMC's Github
 
-copyright: >
-  Copyright &copy; 2022 SAEMC -
-  <a href="#__consent">Change cookie settings</a>
-
+# Page tree
 nav:
   - Home: index.md
   - Base: 
