@@ -149,8 +149,9 @@ nav:
   - Base: 
     - base/index.md
     - Memo:
-      - base/memo/index.md
+      # - base/memo/index.md
       - base/memo/001.md
+      - base/memo/002.md
     - Git:
       - base/git/index.md
       - base/git/001.md
