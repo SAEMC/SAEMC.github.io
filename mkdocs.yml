@@ -140,12 +140,6 @@ extra_javascript:
 
 # Page tree
 nav:
-  - Home:
-    - index.md
-    - Base: base/index.md
-    - Langs: langs/index.md
-    - ML/DL: mldl/index.md
-    - Ops: ops/index.md
   - Base: 
     - base/index.md
     - Memo:
