@@ -38,22 +38,22 @@ theme:
     - content.tabs.link
 
   palette:
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: *_primary_color
-      accent: *_accent_color
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+      scheme: default
       primary: *_primary_color
       accent: *_accent_color
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
+      primary: *_primary_color
+      accent: *_accent_color
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
 
   font:
     text: Roboto
