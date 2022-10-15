@@ -68,9 +68,6 @@ theme:
 # Plugins
 plugins:
   - search
-  # pip install mkdocs-git-revision-date-localized-plugin
-  - git-revision-date-localized:
-      enable_creation_date: true
 
 # Customization
 extra:
