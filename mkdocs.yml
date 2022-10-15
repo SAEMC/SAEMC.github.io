@@ -4,7 +4,8 @@ define: &_accent_color "blue"
 
 # Project information
 site_name: SAEMC's Note
-site_url: "https://SAEMC/SAEMC.github.io/"
+site_url: "https://SAEMC.github.io/"
+edit_uri: ""
 
 # Repository
 repo_url: https://github.com/SAEMC/SAEMC.github.io.git
@@ -19,23 +20,22 @@ copyright: >
 theme:
   name: material
 
-  # Static files
-  static_templates:
-    - 404.html
-
-  # Default values, taken from mkdocs_theme.yml
-  language: en
   features:
+    # Setup
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
     - navigation.sticky
     - navigation.indexes
+    - navigation.top
     - toc.follow
     - search.suggest
     - search.highlight
     - header.autohide
     - announce.dismiss
+    # Reference
+    - content.code.annotate
+    - content.tabs.link
 
   palette:
     # Palette toggle for light mode
@@ -46,7 +46,6 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
-
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -64,11 +63,16 @@ theme:
   logo: assets/logo.ico
 
   icon:
-    repo: fontawesome/brands/github
+    repo: fontawesome/brands/git-alt
 
 # Plugins
 plugins:
   - search
+  # pip install mkdocs-glightbox
+  - glightbox
+  # pip install mkdocs-git-revision-date-localized-plugin
+  - git-revision-date-localized:
+      enable_creation_date: true
 
 # Customization
 extra:
@@ -81,12 +85,63 @@ extra:
       make our documentation better.
     actions:
       - accept
-      - manage
       - reject
+      - manage
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/SAEMC
       name: SAEMC's Github
+
+# Free Extensions
+markdown_extensions:
+  # Admonitions
+  - admonition
+  - pymdownx.details
+  # Annotations, Buttons, Images, Diagrams
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  # Code blocks
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  # Content tabs
+  - pymdownx.tabbed:
+      alternate_style: true
+  # Data tables
+  - tables
+  # Footnotes
+  - footnotes
+  # Formatting
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  # Icons, Emojis
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  # Lists
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  # MathJax
+  - pymdownx.arithmatex:
+      generic: true
+  # Abbreviations (Tooltips)
+  - abbr
+
+# Extra JavaScript
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 # Page tree
 nav:

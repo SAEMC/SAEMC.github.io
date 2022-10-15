@@ -1,6 +1,7 @@
 ---
 hide:
   - footer
+  - toc
 ---
 
 # SQL

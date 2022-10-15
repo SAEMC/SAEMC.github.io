@@ -1,22 +1,16 @@
 ---
 hide:
   - footer
+  - navigation
+  - toc
 ---
 
-# Home
+# SAEMC's Note
 
 ## Base
 
-- TODO: Add links
-
 ## Langs
 
-- TODO: Add links
-
-## DL
-
-- TODO: Add links
+## ML/DL
 
 ## Ops
-
-- TODO: Add links
