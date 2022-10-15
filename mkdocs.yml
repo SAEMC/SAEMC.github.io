@@ -3,7 +3,7 @@ define: &_primary_color "blue"
 define: &_accent_color "blue"
 
 # Project information
-site_name: SAEMC's Note
+site_name: SAEMC의 노트
 site_url: "https://SAEMC.github.io/"
 edit_uri: ""
 
