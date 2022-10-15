@@ -161,7 +161,9 @@ nav:
     - langs/index.md
     - BASH:
       - langs/bash/index.md
-      - BASH-1: langs/bash/001.md
+      - 초급 내용: 
+        - langs/bash/ch-001/index.md
+        - 1. 종료와 종료 상태(Exit and Exit Status): langs/bash/ch-001/001.md
     - C:
       - langs/c/index.md
       - C-1: langs/c/001.md
@@ -169,10 +171,44 @@ nav:
     - mldl/index.md
     - Linear Algebra:
       - mldl/linear-algebra/index.md
-      - LinAlg-1: mldl/linear-algebra/001.md
+      - Linear System and Transformation: 
+        - mldl/linear-algebra/ch-001/index.md
+        - 1. Basic of Linear Algebra: mldl/linear-algebra/ch-001/001.md
+      - Least Squares: 
+        - mldl/linear-algebra/ch-002/index.md
+        - 1. Basic of Least Squares: mldl/linear-algebra/ch-002/001.md
+      - Eigendecomposition: 
+        - mldl/linear-algebra/ch-003/index.md
+        - 1. Eigenvectors and Eigenvalues: mldl/linear-algebra/ch-003/001.md
+      - Singular Value Decomposition: 
+        - mldl/linear-algebra/ch-004/index.md
+        - 1. SVD 1: mldl/linear-algebra/ch-004/001.md
     - Speech Book:
       - mldl/speech-book/index.md
-      - SB-1: mldl/speech-book/001.md
+      - Introduction:
+        - mldl/speech-book/ch-001/index.md
+        - 1. ASR: mldl/speech-book/ch-001/001.md
+      - Phonetics:
+        - mldl/speech-book/ch-002/index.md
+        - 1. Phonetics: mldl/speech-book/ch-002/001.md
+      - Feature Extraction:
+        - mldl/speech-book/ch-003/index.md
+        - 1. Acoustic Feature Extraction: mldl/speech-book/ch-003/001.md
+      - Acoustic Models:
+        - mldl/speech-book/ch-004/index.md
+        - 1. Legacy Acoustic Model: mldl/speech-book/ch-004/001.md
+      - Neural Feature Extraction:
+        - mldl/speech-book/ch-005/index.md
+        - 1. Neural Acoustic Feature Extraction: mldl/speech-book/ch-005/001.md
+      - Neural Acoustic Models:
+        - mldl/speech-book/ch-006/index.md
+        - 1. Neural Acoustic Models: mldl/speech-book/ch-006/001.md
+      - Decoding Strategy:
+        - mldl/speech-book/ch-007/index.md
+        - 1. Decoding Strategy: mldl/speech-book/ch-007/001.md
+      - Sophisticated Models:
+        - mldl/speech-book/ch-008/index.md
+        - 1. Sophisticated Models: mldl/speech-book/ch-008/001.md
     - Extra:
       - mldl/extra/index.md
       - Extra-1: mldl/extra/001.md
