@@ -1,4 +1,5 @@
 ---
+title: Base
 hide:
   - footer
   - toc

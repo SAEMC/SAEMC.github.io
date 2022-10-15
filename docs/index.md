@@ -1,4 +1,5 @@
 ---
+title: Home
 hide:
   - footer
   - toc

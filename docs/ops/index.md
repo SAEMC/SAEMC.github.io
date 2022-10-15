@@ -1,4 +1,5 @@
 ---
+title: Ops
 hide:
   - footer
   - toc

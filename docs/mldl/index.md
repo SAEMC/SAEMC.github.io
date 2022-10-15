@@ -1,4 +1,5 @@
 ---
+title: ML/DL
 hide:
   - footer
   - toc
