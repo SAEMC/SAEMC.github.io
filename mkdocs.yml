@@ -59,8 +59,8 @@ theme:
     text: Roboto
     code: Roboto Mono
 
-  favicon: assets/logo.ico
-  logo: assets/logo.ico
+  favicon: assets/favicon.ico
+  logo: assets/images/whale/home.png
 
   icon:
     repo: fontawesome/brands/git-alt
