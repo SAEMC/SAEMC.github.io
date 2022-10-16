@@ -208,7 +208,7 @@ nav:
       - Sophisticated Models:
         - mldl/speech-book/ch-008/001.md
     - Extra:
-      - mldl/extra/001.md
+        - ""
   - Ops: 
     - ops/index.md
     - Angular:
