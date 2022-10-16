@@ -1,6 +1,5 @@
 # theme variables
-define: &_primary_color "blue"
-define: &_accent_color "blue"
+define: &_theme_color "blue"
 
 # Project information
 site_name: SAEMC의 노트
@@ -41,16 +40,16 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: default
-      primary: *_primary_color
-      accent: *_accent_color
+      primary: *_theme_color
+      accent: *_theme_color
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: slate
-      primary: *_primary_color
-      accent: *_accent_color
+      primary: *_theme_color
+      accent: *_theme_color
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
@@ -73,7 +72,7 @@ plugins:
 extra:
   consent:
     title: Cookie consent
-    description: >- 
+    description: >-
       We use cookies to recognize your repeated visits and preferences, as well
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
@@ -99,8 +98,10 @@ markdown_extensions:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  # Code blocks
+          format:
+            !!python/name:pymdownx.superfences.fence_code_format # Code blocks
+
+
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -121,8 +122,9 @@ markdown_extensions:
   # Icons, Emojis
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-  # Lists
+      emoji_generator: !!python/name:materialx.emoji.to_svg # Lists
+
+
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -140,89 +142,89 @@ extra_javascript:
 
 # Page tree
 nav:
-  - Base: 
-    - base/index.md
-    - Memo:
-      - base/memo/001.md
-      - base/memo/002.md
-      - base/memo/003.md
-      - base/memo/004.md
-      - base/memo/005.md
-      - base/memo/006.md
-      - base/memo/007.md
-      - base/memo/008.md
-      - base/memo/009.md
-      - base/memo/010.md
-      - base/memo/011.md
-      - base/memo/012.md
-      - base/memo/013.md
-      - base/memo/014.md
-      - base/memo/015.md
-    - Git:
-      - base/git/001.md
-      - base/git/002.md
-      - base/git/003.md
-      - base/git/004.md
-      - base/git/005.md
-      - base/git/006.md
-      - base/git/007.md
-    - Kubernetes:
-      - base/kubernetes/001.md
-      - base/kubernetes/002.md
-      - base/kubernetes/003.md
-      - base/kubernetes/004.md
-      - base/kubernetes/005.md
-  - Langs: 
-    - langs/index.md
+  - Base:
+      - base/index.md
+      - Memo:
+          - base/memo/001.md
+          - base/memo/002.md
+          - base/memo/003.md
+          - base/memo/004.md
+          - base/memo/005.md
+          - base/memo/006.md
+          - base/memo/007.md
+          - base/memo/008.md
+          - base/memo/009.md
+          - base/memo/010.md
+          - base/memo/011.md
+          - base/memo/012.md
+          - base/memo/013.md
+          - base/memo/014.md
+          - base/memo/015.md
+      - Git:
+          - base/git/001.md
+          - base/git/002.md
+          - base/git/003.md
+          - base/git/004.md
+          - base/git/005.md
+          - base/git/006.md
+          - base/git/007.md
+      - Kubernetes:
+          - base/kubernetes/001.md
+          - base/kubernetes/002.md
+          - base/kubernetes/003.md
+          - base/kubernetes/004.md
+          - base/kubernetes/005.md
+  - Langs:
+      - langs/index.md
     # - BASH:
-    #   - 초급 내용: 
+    #   - 초급 내용:
     #     - langs/bash/ch-001/001.md
     # - C:
     #   - langs/c/001.md
-  - ML/DL: 
-    - mldl/index.md
-    - Linear Algebra:
-      - Linear System and Transformation: 
-        - mldl/linear-algebra/ch-001/001.md
-        - mldl/linear-algebra/ch-001/002.md
-        - mldl/linear-algebra/ch-001/003.md
-        - mldl/linear-algebra/ch-001/004.md
-        - mldl/linear-algebra/ch-001/005.md
-        - mldl/linear-algebra/ch-001/006.md
-        - mldl/linear-algebra/ch-001/007.md
-      - Least Squares: 
-        - mldl/linear-algebra/ch-002/001.md
-        - mldl/linear-algebra/ch-002/002.md
-        - mldl/linear-algebra/ch-002/003.md
-        - mldl/linear-algebra/ch-002/004.md
-      - Eigendecomposition: 
-        - mldl/linear-algebra/ch-003/001.md
-        - mldl/linear-algebra/ch-003/002.md
-      - Singular Value Decomposition: 
-        - mldl/linear-algebra/ch-004/001.md
-        - mldl/linear-algebra/ch-004/002.md
-        - mldl/linear-algebra/ch-004/003.md
-    - Speech Book:
-      - Introduction:
-        - mldl/speech-book/ch-001/001.md
-      - Phonetics:
-        - mldl/speech-book/ch-002/001.md
-      - Feature Extraction:
-        - mldl/speech-book/ch-003/001.md
-      - Acoustic Models:
-        - mldl/speech-book/ch-004/001.md
-      - Neural Feature Extraction:
-        - mldl/speech-book/ch-005/001.md
-      - Neural Acoustic Models:
-        - mldl/speech-book/ch-006/001.md
-      - Decoding Strategy:
-        - mldl/speech-book/ch-007/001.md
-      - Sophisticated Models:
-        - mldl/speech-book/ch-008/001.md
-    - Extra:
-      - ""
-  - Ops: 
-    - ops/index.md
+  - ML/DL:
+      - mldl/index.md
+      - Linear Algebra:
+          - Linear System and Transformation:
+              - mldl/linear-algebra/ch-001/001.md
+              - mldl/linear-algebra/ch-001/002.md
+              - mldl/linear-algebra/ch-001/003.md
+              - mldl/linear-algebra/ch-001/004.md
+              - mldl/linear-algebra/ch-001/005.md
+              - mldl/linear-algebra/ch-001/006.md
+              - mldl/linear-algebra/ch-001/007.md
+          - Least Squares:
+              - mldl/linear-algebra/ch-002/001.md
+              - mldl/linear-algebra/ch-002/002.md
+              - mldl/linear-algebra/ch-002/003.md
+              - mldl/linear-algebra/ch-002/004.md
+          - Eigendecomposition:
+              - mldl/linear-algebra/ch-003/001.md
+              - mldl/linear-algebra/ch-003/002.md
+          - Singular Value Decomposition:
+              - mldl/linear-algebra/ch-004/001.md
+              - mldl/linear-algebra/ch-004/002.md
+              - mldl/linear-algebra/ch-004/003.md
+      - Speech Book:
+          - Introduction:
+              - mldl/speech-book/ch-001/001.md
+          - Phonetics:
+              - mldl/speech-book/ch-002/001.md
+          - Feature Extraction:
+              - mldl/speech-book/ch-003/001.md
+          - Acoustic Models:
+              - mldl/speech-book/ch-004/001.md
+          - Neural Feature Extraction:
+              - mldl/speech-book/ch-005/001.md
+          - Neural Acoustic Models:
+              - mldl/speech-book/ch-006/001.md
+          - Decoding Strategy:
+              - mldl/speech-book/ch-007/001.md
+          - Sophisticated Models:
+              - mldl/speech-book/ch-008/001.md
+      - Extra:
+          - ""
+  - Ops:
+      - ops/index.md
     # - Angular:
     #   - 시작하기:
     #     - ops/angular/ch-001/001.md
