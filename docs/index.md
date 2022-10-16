@@ -7,9 +7,6 @@ hide:
 
 #
 
-<!-- <figure markdown> -->
-<!--   ![Whale-home](assets/images/whale/home.png){ load=lazy width=100% } -->
-<!-- </figure> -->
 <figure markdown>
-  ![Whale-home](https://github.com/SAEMC/Images/blob/main/whale_move.png?raw=true){ load=lazy width=100% }
+  ![Whale-home](assets/images/whale/home.png){ load=lazy width=100% }
 </figure>
