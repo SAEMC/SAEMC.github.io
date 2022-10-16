@@ -152,6 +152,9 @@ nav:
       - base/memo/007.md
       - base/memo/008.md
       - base/memo/009.md
+      - base/memo/010.md
+      - base/memo/011.md
+      - base/memo/012.md
     - Git:
       - base/git/001.md
     - Kubernetes:
