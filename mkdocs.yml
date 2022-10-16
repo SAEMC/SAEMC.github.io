@@ -174,11 +174,11 @@ nav:
       - base/kubernetes/005.md
   - Langs: 
     - langs/index.md
-    - BASH:
-      - 초급 내용: 
-        - langs/bash/ch-001/001.md
-    - C:
-      - langs/c/001.md
+    # - BASH:
+    #   - 초급 내용: 
+    #     - langs/bash/ch-001/001.md
+    # - C:
+    #   - langs/c/001.md
   - ML/DL: 
     - mldl/index.md
     - Linear Algebra:
@@ -220,11 +220,11 @@ nav:
       - Sophisticated Models:
         - mldl/speech-book/ch-008/001.md
     - Extra:
-        - ""
+      - ""
   - Ops: 
     - ops/index.md
-    - Angular:
-      - 시작하기:
-        - ops/angular/ch-001/001.md
-    - Celery:
-      - ops/celery/001.md
+    # - Angular:
+    #   - 시작하기:
+    #     - ops/angular/ch-001/001.md
+    # - Celery:
+    #   - ops/celery/001.md
