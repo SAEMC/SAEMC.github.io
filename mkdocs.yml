@@ -223,8 +223,8 @@ nav:
       - ""
   - Ops: 
     - ops/index.md
-    - Angular:
-      - 시작하기:
-        - ops/angular/ch-001/001.md
-    - Celery:
-      - ops/celery/001.md
+    # - Angular:
+    #   - 시작하기:
+    #     - ops/angular/ch-001/001.md
+    # - Celery:
+    #   - ops/celery/001.md
