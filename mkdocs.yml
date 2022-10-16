@@ -168,6 +168,10 @@ nav:
       - base/git/007.md
     - Kubernetes:
       - base/kubernetes/001.md
+      - base/kubernetes/002.md
+      - base/kubernetes/003.md
+      - base/kubernetes/004.md
+      - base/kubernetes/005.md
   - Langs: 
     - langs/index.md
     - BASH:
