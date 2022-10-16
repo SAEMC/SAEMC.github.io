@@ -184,12 +184,24 @@ nav:
     - Linear Algebra:
       - Linear System and Transformation: 
         - mldl/linear-algebra/ch-001/001.md
+        - mldl/linear-algebra/ch-001/002.md
+        - mldl/linear-algebra/ch-001/003.md
+        - mldl/linear-algebra/ch-001/004.md
+        - mldl/linear-algebra/ch-001/005.md
+        - mldl/linear-algebra/ch-001/006.md
+        - mldl/linear-algebra/ch-001/007.md
       - Least Squares: 
         - mldl/linear-algebra/ch-002/001.md
+        - mldl/linear-algebra/ch-002/002.md
+        - mldl/linear-algebra/ch-002/003.md
+        - mldl/linear-algebra/ch-002/004.md
       - Eigendecomposition: 
         - mldl/linear-algebra/ch-003/001.md
+        - mldl/linear-algebra/ch-003/002.md
       - Singular Value Decomposition: 
         - mldl/linear-algebra/ch-004/001.md
+        - mldl/linear-algebra/ch-004/002.md
+        - mldl/linear-algebra/ch-004/003.md
     - Speech Book:
       - Introduction:
         - mldl/speech-book/ch-001/001.md
