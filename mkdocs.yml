@@ -255,3 +255,12 @@ nav:
           - ops/celery/002.md
           - ops/celery/003.md
           - ops/celery/004.md
+      - Django:
+          - ops/django/001.md
+          - ops/django/002.md
+          - ops/django/003.md
+          - ops/django/004.md
+          - ops/django/005.md
+          - ops/django/006.md
+          - ops/django/007.md
+          - ops/django/008.md
