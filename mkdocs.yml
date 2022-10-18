@@ -96,6 +96,7 @@ markdown_extensions:
           format:
             !!python/name:pymdownx.superfences.fence_code_format # Code blocks
 
+
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -117,6 +118,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg # Lists
+
 
   - def_list
   - pymdownx.tasklist:
@@ -202,18 +204,45 @@ nav:
               - mldl/speech-book/ch-001/001.md
           - Phonetics:
               - mldl/speech-book/ch-002/001.md
+              - mldl/speech-book/ch-002/002.md
+              - mldl/speech-book/ch-002/003.md
+              - mldl/speech-book/ch-002/004.md
+              - mldl/speech-book/ch-002/005.md
+              - mldl/speech-book/ch-002/006.md
+              - mldl/speech-book/ch-002/007.md
           - Feature Extraction:
               - mldl/speech-book/ch-003/001.md
+              - mldl/speech-book/ch-003/002.md
+              - mldl/speech-book/ch-003/003.md
           - Acoustic Models:
               - mldl/speech-book/ch-004/001.md
+              - mldl/speech-book/ch-004/002.md
+              - mldl/speech-book/ch-004/003.md
+              - mldl/speech-book/ch-004/004.md
+              - mldl/speech-book/ch-004/005.md
+              - mldl/speech-book/ch-004/006.md
+              - mldl/speech-book/ch-004/007.md
           - Neural Feature Extraction:
               - mldl/speech-book/ch-005/001.md
+              - mldl/speech-book/ch-005/002.md
+              - mldl/speech-book/ch-005/003.md
+              - mldl/speech-book/ch-005/004.md
           - Neural Acoustic Models:
               - mldl/speech-book/ch-006/001.md
+              - mldl/speech-book/ch-006/002.md
+              - mldl/speech-book/ch-006/003.md
+              - mldl/speech-book/ch-006/004.md
+              - mldl/speech-book/ch-006/005.md
           - Decoding Strategy:
               - mldl/speech-book/ch-007/001.md
+              - mldl/speech-book/ch-007/002.md
+              - mldl/speech-book/ch-007/003.md
+              - mldl/speech-book/ch-007/004.md
+              - mldl/speech-book/ch-007/005.md
           - Sophisticated Models:
               - mldl/speech-book/ch-008/001.md
+              - mldl/speech-book/ch-008/002.md
+              - mldl/speech-book/ch-008/003.md
       - Extra:
           - ""
   - Ops:
