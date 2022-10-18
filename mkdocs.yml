@@ -264,3 +264,9 @@ nav:
           - ops/django/006.md
           - ops/django/007.md
           - ops/django/008.md
+      - Docker Compose:
+          - ops/docker-compose/001.md
+          - ops/docker-compose/002.md
+          - ops/docker-compose/003.md
+          - ops/docker-compose/004.md
+          - ops/docker-compose/005.md
