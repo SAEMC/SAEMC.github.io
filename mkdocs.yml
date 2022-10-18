@@ -35,22 +35,22 @@ theme:
     - content.code.annotate
     - content.tabs.link
   palette:
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: default
-      primary: *_theme_color
-      accent: *_theme_color
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to light mode
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: slate
+      scheme: default
       primary: *_theme_color
       accent: *_theme_color
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: *_theme_color
+      accent: *_theme_color
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
   font:
     text: Roboto
     code: Roboto Mono
