@@ -309,3 +309,10 @@ nav:
           - ops/redis/002.md
           - ops/redis/003.md
           - ops/redis/004.md
+      - TorchServe:
+          - ops/torchserve/001.md
+          - ops/torchserve/002.md
+          - ops/torchserve/003.md
+          - ops/torchserve/004.md
+          - ops/torchserve/005.md
+          - ops/torchserve/006.md
