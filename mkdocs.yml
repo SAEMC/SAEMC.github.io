@@ -269,6 +269,11 @@ nav:
           - ops/docker-compose/003.md
           - ops/docker-compose/004.md
           - ops/docker-compose/005.md
+      - MongoDB:
+          - ops/mongodb/001.md
+          - ops/mongodb/002.md
+          - ops/mongodb/003.md
+          - ops/mongodb/004.md
       - NestJS:
           - Overview:
               - ops/nestjs/ch-001/001.md
