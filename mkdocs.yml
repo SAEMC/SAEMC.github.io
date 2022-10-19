@@ -118,6 +118,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg # Lists
 
+
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -292,3 +293,9 @@ nav:
               - ops/nestjs/ch-002/009.md
               - ops/nestjs/ch-002/010.md
               - ops/nestjs/ch-002/011.md
+      - Nginx:
+          - ops/nginx/001.md
+          - ops/nginx/002.md
+          - ops/nginx/003.md
+          - ops/nginx/004.md
+          - ops/nginx/005.md
