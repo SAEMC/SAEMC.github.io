@@ -33,7 +33,6 @@ theme:
     - announce.dismiss
     # Reference
     - content.code.annotate
-    - content.tabs.link
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -118,7 +117,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg # Lists
-
 
   - def_list
   - pymdownx.tasklist:
@@ -270,3 +268,27 @@ nav:
           - ops/docker-compose/003.md
           - ops/docker-compose/004.md
           - ops/docker-compose/005.md
+      - NestJS:
+          - Overview:
+              - ops/nestjs/ch-001/001.md
+              - ops/nestjs/ch-001/002.md
+              - ops/nestjs/ch-001/003.md
+              - ops/nestjs/ch-001/004.md
+              - ops/nestjs/ch-001/005.md
+              - ops/nestjs/ch-001/006.md
+              - ops/nestjs/ch-001/007.md
+              - ops/nestjs/ch-001/008.md
+              - ops/nestjs/ch-001/009.md
+              - ops/nestjs/ch-001/010.md
+          - Tutorials:
+              - ops/nestjs/ch-002/001.md
+              - ops/nestjs/ch-002/002.md
+              - ops/nestjs/ch-002/003.md
+              - ops/nestjs/ch-002/004.md
+              - ops/nestjs/ch-002/005.md
+              - ops/nestjs/ch-002/006.md
+              - ops/nestjs/ch-002/007.md
+              - ops/nestjs/ch-002/008.md
+              - ops/nestjs/ch-002/009.md
+              - ops/nestjs/ch-002/010.md
+              - ops/nestjs/ch-002/011.md
