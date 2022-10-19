@@ -304,3 +304,8 @@ nav:
           - ops/nginx/003.md
           - ops/nginx/004.md
           - ops/nginx/005.md
+      - Redis:
+          - ops/redis/001.md
+          - ops/redis/002.md
+          - ops/redis/003.md
+          - ops/redis/004.md
