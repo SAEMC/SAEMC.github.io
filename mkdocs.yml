@@ -348,6 +348,59 @@ nav:
           - ops/docker-compose/003.md
           - ops/docker-compose/004.md
           - ops/docker-compose/005.md
+      - FastAPI:
+          - Tutorials:
+              - ops/fastapi/ch-001/001.md
+              - ops/fastapi/ch-001/002.md
+              - ops/fastapi/ch-001/003.md
+              - ops/fastapi/ch-001/004.md
+              - ops/fastapi/ch-001/005.md
+              - ops/fastapi/ch-001/006.md
+              - ops/fastapi/ch-001/007.md
+              - ops/fastapi/ch-001/008.md
+              - ops/fastapi/ch-001/009.md
+              - ops/fastapi/ch-001/010.md
+              - ops/fastapi/ch-001/011.md
+              - ops/fastapi/ch-001/012.md
+              - ops/fastapi/ch-001/013.md
+              - ops/fastapi/ch-001/014.md
+              - ops/fastapi/ch-001/015.md
+              - ops/fastapi/ch-001/016.md
+              - ops/fastapi/ch-001/017.md
+              - ops/fastapi/ch-001/018.md
+              - ops/fastapi/ch-001/019.md
+              - ops/fastapi/ch-001/020.md
+              - ops/fastapi/ch-001/021.md
+              - ops/fastapi/ch-001/022.md
+              - ops/fastapi/ch-001/023.md
+              - ops/fastapi/ch-001/024.md
+              - ops/fastapi/ch-001/025.md
+              - ops/fastapi/ch-001/026.md
+              - ops/fastapi/ch-001/027.md
+              - ops/fastapi/ch-001/028.md
+              - ops/fastapi/ch-001/029.md
+              - ops/fastapi/ch-001/030.md
+              - ops/fastapi/ch-001/031.md
+              - ops/fastapi/ch-001/032.md
+              - ops/fastapi/ch-001/033.md
+              - ops/fastapi/ch-001/034.md
+              - ops/fastapi/ch-001/035.md
+              - ops/fastapi/ch-001/036.md
+              - ops/fastapi/ch-001/037.md
+              - ops/fastapi/ch-001/038.md
+              - ops/fastapi/ch-001/039.md
+              - ops/fastapi/ch-001/040.md
+              - ops/fastapi/ch-001/041.md
+              - ops/fastapi/ch-001/042.md
+              - ops/fastapi/ch-001/043.md
+              - ops/fastapi/ch-001/044.md
+          - Advanced:
+              - ops/fastapi/ch-002/001.md
+              - ops/fastapi/ch-002/002.md
+              - ops/fastapi/ch-002/003.md
+              - ops/fastapi/ch-002/004.md
+              - ops/fastapi/ch-002/005.md
+              - ops/fastapi/ch-002/006.md
       - MongoDB:
           - ops/mongodb/001.md
           - ops/mongodb/002.md
