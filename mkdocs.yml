@@ -383,17 +383,17 @@ nav:
               - ops/fastapi/ch-001/031.md
               - ops/fastapi/ch-001/032.md
               - ops/fastapi/ch-001/033.md
-              # - ops/fastapi/ch-001/034.md
-              # - ops/fastapi/ch-001/035.md
-              # - ops/fastapi/ch-001/036.md
-              # - ops/fastapi/ch-001/037.md
-              # - ops/fastapi/ch-001/038.md
-              # - ops/fastapi/ch-001/039.md
-              # - ops/fastapi/ch-001/040.md
-              # - ops/fastapi/ch-001/041.md
-              # - ops/fastapi/ch-001/042.md
-              # - ops/fastapi/ch-001/043.md
-              # - ops/fastapi/ch-001/044.md
+              - ops/fastapi/ch-001/034.md
+              - ops/fastapi/ch-001/035.md
+              - ops/fastapi/ch-001/036.md
+              - ops/fastapi/ch-001/037.md
+              - ops/fastapi/ch-001/038.md
+              - ops/fastapi/ch-001/039.md
+              - ops/fastapi/ch-001/040.md
+              - ops/fastapi/ch-001/041.md
+              - ops/fastapi/ch-001/042.md
+              - ops/fastapi/ch-001/043.md
+              - ops/fastapi/ch-001/044.md
           - Advanced:
               - ops/fastapi/ch-002/001.md
               - ops/fastapi/ch-002/002.md
