@@ -351,16 +351,16 @@ nav:
       - FastAPI:
           - Tutorials:
               - ops/fastapi/ch-001/001.md
-              - ops/fastapi/ch-001/002.md
-              - ops/fastapi/ch-001/003.md
-              - ops/fastapi/ch-001/004.md
-              - ops/fastapi/ch-001/005.md
-              - ops/fastapi/ch-001/006.md
-              - ops/fastapi/ch-001/007.md
-              - ops/fastapi/ch-001/008.md
-              - ops/fastapi/ch-001/009.md
-              - ops/fastapi/ch-001/010.md
-              - ops/fastapi/ch-001/011.md
+              # - ops/fastapi/ch-001/002.md
+              # - ops/fastapi/ch-001/003.md
+              # - ops/fastapi/ch-001/004.md
+              # - ops/fastapi/ch-001/005.md
+              # - ops/fastapi/ch-001/006.md
+              # - ops/fastapi/ch-001/007.md
+              # - ops/fastapi/ch-001/008.md
+              # - ops/fastapi/ch-001/009.md
+              # - ops/fastapi/ch-001/010.md
+              # - ops/fastapi/ch-001/011.md
               # - ops/fastapi/ch-001/012.md
               # - ops/fastapi/ch-001/013.md
               # - ops/fastapi/ch-001/014.md
