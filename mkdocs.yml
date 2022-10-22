@@ -448,8 +448,8 @@ nav:
           - ops/torchserve/004.md
           - ops/torchserve/005.md
           - ops/torchserve/006.md
-      # - Extra:
-      #     - ops/extra/001.md
-      #     - ops/extra/002.md
-      #     - ops/extra/003.md
-      #     - ops/extra/004.md
+      - Extra:
+          - ops/extra/001.md
+          - ops/extra/002.md
+          - ops/extra/003.md
+          - ops/extra/004.md
