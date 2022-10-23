@@ -196,6 +196,21 @@ nav:
               - langs/html-css/ch-002/007.md
               - langs/html-css/ch-002/008.md
               - langs/html-css/ch-002/009.md
+      - JavaScript:
+          - langs/javascript/001.md
+          - langs/javascript/002.md
+          - langs/javascript/003.md
+          - langs/javascript/004.md
+          - langs/javascript/005.md
+          - langs/javascript/006.md
+          - langs/javascript/007.md
+          - langs/javascript/008.md
+          - langs/javascript/009.md
+          - langs/javascript/010.md
+          - langs/javascript/011.md
+          - langs/javascript/012.md
+          - langs/javascript/013.md
+          - langs/javascript/014.md
       - Lua:
           - langs/lua/001.md
           - langs/lua/002.md
