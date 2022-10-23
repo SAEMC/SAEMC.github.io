@@ -201,6 +201,29 @@ nav:
           - langs/lua/002.md
           - langs/lua/003.md
           - langs/lua/004.md
+      - SQL:
+          - SQL Tutorials:
+              - langs/sql/ch-001/001.md
+          - SQL Database:
+              - langs/sql/ch-002/001.md
+              - langs/sql/ch-002/002.md
+              - langs/sql/ch-002/003.md
+              - langs/sql/ch-002/004.md
+              - langs/sql/ch-002/005.md
+              - langs/sql/ch-002/006.md
+              - langs/sql/ch-002/007.md
+              - langs/sql/ch-002/008.md
+              - langs/sql/ch-002/009.md
+              - langs/sql/ch-002/010.md
+              - langs/sql/ch-002/011.md
+              - langs/sql/ch-002/012.md
+              - langs/sql/ch-002/013.md
+              - langs/sql/ch-002/014.md
+              - langs/sql/ch-002/015.md
+              - langs/sql/ch-002/016.md
+              - langs/sql/ch-002/017.md
+              - langs/sql/ch-002/018.md
+              - langs/sql/ch-002/019.md
   - ML/DL:
       - mldl/index.md
       - Linear Algebra:
