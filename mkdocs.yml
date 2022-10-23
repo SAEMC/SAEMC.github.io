@@ -170,9 +170,25 @@ nav:
           - base/kubernetes/005.md
   - Langs:
       - langs/index.md
-      # - BASH:
-      #   - 초급 내용:
-      #     - langs/bash/ch-001/001.md
+      - BASH:
+          - 초급 내용:
+              - langs/bash/ch-001/001.md
+          - 중급 내용:
+              - langs/bash/ch-002/001.md
+          - 고급 내용:
+              - langs/bash/ch-003/001.md
+          - 셸 스크립트 기초 문법:
+              - langs/bash/ch-004/001.md
+          - 문자열 찾기:
+              - langs/bash/ch-005/001.md
+          - 파일 찾기:
+              - langs/bash/ch-006/001.md
+          - 특정 인덱스 문자열 출력:
+              - langs/bash/ch-007/001.md
+          - 문자열 변경:
+              - langs/bash/ch-008/001.md
+          - 날짜와 시간:
+              - langs/bash/ch-009/001.md
       - HTML & CSS:
           - HTML:
               - langs/html-css/ch-001/001.md
