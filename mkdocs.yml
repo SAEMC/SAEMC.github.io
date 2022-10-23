@@ -204,6 +204,40 @@ nav:
       - SQL:
           - SQL Tutorials:
               - langs/sql/ch-001/001.md
+              - langs/sql/ch-001/002.md
+              - langs/sql/ch-001/003.md
+              - langs/sql/ch-001/004.md
+              - langs/sql/ch-001/005.md
+              - langs/sql/ch-001/006.md
+              - langs/sql/ch-001/007.md
+              - langs/sql/ch-001/008.md
+              - langs/sql/ch-001/009.md
+              - langs/sql/ch-001/010.md
+              # - langs/sql/ch-001/011.md
+              # - langs/sql/ch-001/012.md
+              # - langs/sql/ch-001/013.md
+              # - langs/sql/ch-001/014.md
+              # - langs/sql/ch-001/015.md
+              # - langs/sql/ch-001/016.md
+              # - langs/sql/ch-001/017.md
+              # - langs/sql/ch-001/018.md
+              # - langs/sql/ch-001/019.md
+              # - langs/sql/ch-001/020.md
+              # - langs/sql/ch-001/021.md
+              # - langs/sql/ch-001/022.md
+              # - langs/sql/ch-001/023.md
+              # - langs/sql/ch-001/024.md
+              # - langs/sql/ch-001/025.md
+              # - langs/sql/ch-001/026.md
+              # - langs/sql/ch-001/027.md
+              # - langs/sql/ch-001/028.md
+              # - langs/sql/ch-001/029.md
+              # - langs/sql/ch-001/030.md
+              # - langs/sql/ch-001/031.md
+              # - langs/sql/ch-001/032.md
+              # - langs/sql/ch-001/033.md
+              # - langs/sql/ch-001/034.md
+              # - langs/sql/ch-001/035.md
           - SQL Database:
               - langs/sql/ch-002/001.md
               - langs/sql/ch-002/002.md
