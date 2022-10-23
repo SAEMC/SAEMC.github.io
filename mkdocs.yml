@@ -258,6 +258,30 @@ nav:
               - langs/sql/ch-002/017.md
               - langs/sql/ch-002/018.md
               - langs/sql/ch-002/019.md
+      - TypeScript:
+          - Basic:
+              - langs/typescript/ch-001/001.md
+              - langs/typescript/ch-001/002.md
+              - langs/typescript/ch-001/003.md
+              - langs/typescript/ch-001/004.md
+              - langs/typescript/ch-001/005.md
+              - langs/typescript/ch-001/006.md
+              - langs/typescript/ch-001/007.md
+              - langs/typescript/ch-001/008.md
+              - langs/typescript/ch-001/009.md
+              - langs/typescript/ch-001/010.md
+          - Usage:
+              - langs/typescript/ch-002/001.md
+              - langs/typescript/ch-002/002.md
+              - langs/typescript/ch-002/003.md
+              - langs/typescript/ch-002/004.md
+              - langs/typescript/ch-002/005.md
+          - Config:
+              - langs/typescript/ch-003/001.md
+              - langs/typescript/ch-003/002.md
+          - ETC:
+              - langs/typescript/ch-004/001.md
+              - langs/typescript/ch-004/002.md
   - ML/DL:
       - mldl/index.md
       - Linear Algebra:
