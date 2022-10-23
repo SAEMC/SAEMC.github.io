@@ -173,8 +173,6 @@ nav:
       # - BASH:
       #   - 초급 내용:
       #     - langs/bash/ch-001/001.md
-      # - C:
-      #   - langs/c/001.md
       - HTML & CSS:
           - HTML:
               - langs/html-css/ch-001/001.md
@@ -198,6 +196,11 @@ nav:
               - langs/html-css/ch-002/007.md
               - langs/html-css/ch-002/008.md
               - langs/html-css/ch-002/009.md
+      - Lua:
+          - langs/lua/001.md
+          - langs/lua/002.md
+          - langs/lua/003.md
+          - langs/lua/004.md
   - ML/DL:
       - mldl/index.md
       - Linear Algebra:
