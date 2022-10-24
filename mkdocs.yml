@@ -269,6 +269,46 @@ nav:
           - langs/lua/002.md
           - langs/lua/003.md
           - langs/lua/004.md
+      - Python:
+          - langs/python/001.md
+          - langs/python/002.md
+          - langs/python/003.md
+          - langs/python/004.md
+          - langs/python/005.md
+          - langs/python/006.md
+          - langs/python/007.md
+          - langs/python/008.md
+          - langs/python/009.md
+          - langs/python/010.md
+          - langs/python/011.md
+          - langs/python/012.md
+          - langs/python/013.md
+          - langs/python/014.md
+          - langs/python/015.md
+          - langs/python/016.md
+          - langs/python/017.md
+          - langs/python/018.md
+          - langs/python/019.md
+          - langs/python/020.md
+          - langs/python/021.md
+          - langs/python/022.md
+          - langs/python/023.md
+          - langs/python/024.md
+          - langs/python/025.md
+          - langs/python/026.md
+          - langs/python/027.md
+          - langs/python/028.md
+          - langs/python/029.md
+          - langs/python/030.md
+          - langs/python/031.md
+          - langs/python/032.md
+          - langs/python/033.md
+          - langs/python/034.md
+          - langs/python/035.md
+          - langs/python/036.md
+          - langs/python/037.md
+          - langs/python/038.md
+          - langs/python/039.md
       - SQL:
           - Tutorials:
               - langs/sql/ch-001/001.md
