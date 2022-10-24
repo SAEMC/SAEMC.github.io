@@ -186,6 +186,21 @@ nav:
               - langs/bash/ch-001/012.md
           - 중급 내용:
               - langs/bash/ch-002/001.md
+              - langs/bash/ch-002/002.md
+              - langs/bash/ch-002/003.md
+              - langs/bash/ch-002/004.md
+              - langs/bash/ch-002/005.md
+              - langs/bash/ch-002/006.md
+              - langs/bash/ch-002/007.md
+              - langs/bash/ch-002/008.md
+              - langs/bash/ch-002/009.md
+              - langs/bash/ch-002/010.md
+              - langs/bash/ch-002/011.md
+              - langs/bash/ch-002/012.md
+              - langs/bash/ch-002/013.md
+              - langs/bash/ch-002/014.md
+              - langs/bash/ch-002/015.md
+              - langs/bash/ch-002/016.md
           - 고급 내용:
               - langs/bash/ch-003/001.md
           - 셸 스크립트 기초 문법:
