@@ -203,6 +203,7 @@ nav:
               - langs/bash/ch-002/016.md
           - 고급 내용:
               - langs/bash/ch-003/001.md
+              - langs/bash/ch-003/002.md
           - 셸 스크립트 기초 문법:
               - langs/bash/ch-004/001.md
           - 문자열 찾기:
