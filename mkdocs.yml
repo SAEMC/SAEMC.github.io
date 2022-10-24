@@ -227,6 +227,28 @@ nav:
               - langs/html-css/ch-002/007.md
               - langs/html-css/ch-002/008.md
               - langs/html-css/ch-002/009.md
+      - Java:
+          - langs/java/001.md
+          - langs/java/002.md
+          - langs/java/003.md
+          - langs/java/004.md
+          - langs/java/005.md
+          - langs/java/006.md
+          - langs/java/007.md
+          - langs/java/008.md
+          - langs/java/009.md
+          - langs/java/010.md
+          - langs/java/011.md
+          - langs/java/012.md
+          - langs/java/013.md
+          - langs/java/014.md
+          - langs/java/015.md
+          - langs/java/016.md
+          - langs/java/017.md
+          - langs/java/018.md
+          - langs/java/019.md
+          - langs/java/020.md
+          - langs/java/021.md
       - JavaScript:
           - langs/javascript/001.md
           - langs/javascript/002.md
