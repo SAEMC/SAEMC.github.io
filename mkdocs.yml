@@ -173,6 +173,17 @@ nav:
       - BASH:
           - 초급 내용:
               - langs/bash/ch-001/001.md
+              - langs/bash/ch-001/002.md
+              - langs/bash/ch-001/003.md
+              - langs/bash/ch-001/004.md
+              - langs/bash/ch-001/005.md
+              - langs/bash/ch-001/006.md
+              - langs/bash/ch-001/007.md
+              - langs/bash/ch-001/008.md
+              - langs/bash/ch-001/009.md
+              - langs/bash/ch-001/010.md
+              - langs/bash/ch-001/011.md
+              - langs/bash/ch-001/012.md
           - 중급 내용:
               - langs/bash/ch-002/001.md
           - 고급 내용:
