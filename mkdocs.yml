@@ -207,27 +207,27 @@ nav:
       - C++:
           - 기본 내용:
               - langs/cpp/ch-001/001.md
-              # - langs/cpp/ch-001/002.md
-              # - langs/cpp/ch-001/003.md
-              # - langs/cpp/ch-001/004.md
-              # - langs/cpp/ch-001/005.md
-              # - langs/cpp/ch-001/006.md
-              # - langs/cpp/ch-001/007.md
-              # - langs/cpp/ch-001/008.md
-              # - langs/cpp/ch-001/009.md
-              # - langs/cpp/ch-001/010.md
-              # - langs/cpp/ch-001/011.md
-              # - langs/cpp/ch-001/012.md
-              # - langs/cpp/ch-001/013.md
-              # - langs/cpp/ch-001/014.md
-              # - langs/cpp/ch-001/015.md
-              # - langs/cpp/ch-001/016.md
-              # - langs/cpp/ch-001/017.md
-              # - langs/cpp/ch-001/018.md
-              # - langs/cpp/ch-001/019.md
-              # - langs/cpp/ch-001/020.md
-              # - langs/cpp/ch-001/021.md
-              # - langs/cpp/ch-001/022.md
+              - langs/cpp/ch-001/002.md
+              - langs/cpp/ch-001/003.md
+              - langs/cpp/ch-001/004.md
+              - langs/cpp/ch-001/005.md
+              - langs/cpp/ch-001/006.md
+              - langs/cpp/ch-001/007.md
+              - langs/cpp/ch-001/008.md
+              - langs/cpp/ch-001/009.md
+              - langs/cpp/ch-001/010.md
+              - langs/cpp/ch-001/011.md
+              - langs/cpp/ch-001/012.md
+              - langs/cpp/ch-001/013.md
+              - langs/cpp/ch-001/014.md
+              - langs/cpp/ch-001/015.md
+              - langs/cpp/ch-001/016.md
+              - langs/cpp/ch-001/017.md
+              - langs/cpp/ch-001/018.md
+              - langs/cpp/ch-001/019.md
+              - langs/cpp/ch-001/020.md
+              - langs/cpp/ch-001/021.md
+              - langs/cpp/ch-001/022.md
           - 예제:
               - langs/cpp/ch-002/001.md
               - langs/cpp/ch-002/002.md
