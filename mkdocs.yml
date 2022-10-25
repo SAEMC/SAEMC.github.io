@@ -171,7 +171,7 @@ nav:
   - Langs:
       - langs/index.md
       - BASH:
-          - Basic:
+          - 초급:
               - langs/bash/ch-001/001.md
               - langs/bash/ch-001/002.md
               - langs/bash/ch-001/003.md
@@ -184,7 +184,7 @@ nav:
               - langs/bash/ch-001/010.md
               - langs/bash/ch-001/011.md
               - langs/bash/ch-001/012.md
-          - Intermediate:
+          - 중급:
               - langs/bash/ch-002/001.md
               - langs/bash/ch-002/002.md
               - langs/bash/ch-002/003.md
@@ -201,7 +201,7 @@ nav:
               - langs/bash/ch-002/014.md
               - langs/bash/ch-002/015.md
               - langs/bash/ch-002/016.md
-          - Advanced:
+          - 고급:
               - langs/bash/ch-003/001.md
               - langs/bash/ch-003/002.md
       - C:
