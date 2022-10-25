@@ -207,7 +207,7 @@ nav:
       - C:
           - langs/c/001.md
       - C++:
-          - 기본 내용:
+          - 기본:
               - langs/cpp/ch-001/001.md
               - langs/cpp/ch-001/002.md
               - langs/cpp/ch-001/003.md
