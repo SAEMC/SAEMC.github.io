@@ -206,6 +206,15 @@ nav:
               - langs/bash/ch-003/002.md
       - C:
           - langs/c/001.md
+          - langs/c/002.md
+          - langs/c/003.md
+          - langs/c/004.md
+          - langs/c/005.md
+          - langs/c/006.md
+          - langs/c/007.md
+          - langs/c/008.md
+          - langs/c/009.md
+          - langs/c/010.md
       - C++:
           - Basic:
               - langs/cpp/ch-001/001.md
