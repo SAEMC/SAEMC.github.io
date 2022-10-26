@@ -215,6 +215,16 @@ nav:
           - langs/c/008.md
           - langs/c/009.md
           - langs/c/010.md
+          - langs/c/011.md
+          - langs/c/012.md
+          - langs/c/013.md
+          - langs/c/014.md
+          - langs/c/015.md
+          - langs/c/016.md
+          - langs/c/017.md
+          - langs/c/018.md
+          - langs/c/019.md
+          - langs/c/020.md
       - C++:
           - Basic:
               - langs/cpp/ch-001/001.md
