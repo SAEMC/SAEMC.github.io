@@ -94,8 +94,6 @@ markdown_extensions:
           class: mermaid
           format:
             !!python/name:pymdownx.superfences.fence_code_format # Code blocks
-
-
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -117,8 +115,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg # Lists
-
-
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
