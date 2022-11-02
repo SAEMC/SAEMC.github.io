@@ -1,4 +1,4 @@
-# theme variables
+# Variables
 define: &_theme_color "blue"
 
 # Project information
