@@ -540,6 +540,16 @@ nav:
               - mldl/linear-algebra/ch-004/001.md
               - mldl/linear-algebra/ch-004/002.md
               - mldl/linear-algebra/ch-004/003.md
+      - PyTorch (1.13.0+cu117):
+          - Introduction to PyTorch:
+              - mldl/pytorch/ch-001/001.md
+              - mldl/pytorch/ch-001/002.md
+              - mldl/pytorch/ch-001/003.md
+              - mldl/pytorch/ch-001/004.md
+              - mldl/pytorch/ch-001/005.md
+              - mldl/pytorch/ch-001/006.md
+              - mldl/pytorch/ch-001/007.md
+              - mldl/pytorch/ch-001/008.md
       - Speech Book:
           - Introduction:
               - mldl/speech-book/ch-001/001.md
@@ -584,8 +594,8 @@ nav:
               - mldl/speech-book/ch-008/001.md
               - mldl/speech-book/ch-008/002.md
               - mldl/speech-book/ch-008/003.md
-      - Extra:
-          - ""
+      # - Extra:
+      #     - ""
   - Ops:
       - ops/index.md
       - Angular:
