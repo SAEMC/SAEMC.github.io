@@ -550,6 +550,9 @@ nav:
               - mldl/pytorch/ch-001/006.md
               - mldl/pytorch/ch-001/007.md
               - mldl/pytorch/ch-001/008.md
+          - Learning PyTorch:
+              - mldl/pytorch/ch-002/001.md
+              - mldl/pytorch/ch-002/002.md
       - Speech Book:
           - Introduction:
               - mldl/speech-book/ch-001/001.md
