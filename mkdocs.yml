@@ -94,6 +94,8 @@ markdown_extensions:
           class: mermaid
           format:
             !!python/name:pymdownx.superfences.fence_code_format # Code blocks
+
+
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -115,6 +117,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg # Lists
+
+
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -436,6 +440,15 @@ nav:
           - langs/python/037.md
           - langs/python/038.md
           - langs/python/039.md
+      - Rust:
+          - The Rust Programming Language: langs/rust/ch-001/001.md
+          - Foreword: langs/rust/ch-002/001.md
+          - Introduction: langs/rust/ch-003/001.md
+          - Getting Started:
+              - langs/rust/ch-004/index.md
+              - langs/rust/ch-004/001.md
+              - langs/rust/ch-004/002.md
+              - langs/rust/ch-004/003.md
       - SQL:
           - Tutorials:
               - langs/sql/ch-001/001.md
