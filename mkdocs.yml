@@ -458,6 +458,33 @@ nav:
           - 4. 소유권 이해하기:
               - langs/rust/ch-005/index.md
               - langs/rust/ch-005/001.md
+              - langs/rust/ch-005/002.md
+              - langs/rust/ch-005/003.md
+          - 5. 연관된 데이터들을 구조체로 다루기:
+              - langs/rust/ch-006/index.md
+              - langs/rust/ch-006/001.md
+              - langs/rust/ch-006/002.md
+              - langs/rust/ch-006/003.md
+          - 6. 열거형과 패턴 매칭:
+              - langs/rust/ch-007/index.md
+              - langs/rust/ch-007/001.md
+              - langs/rust/ch-007/002.md
+              - langs/rust/ch-007/003.md
+          - 7. 모듈:
+              - langs/rust/ch-008/index.md
+              - langs/rust/ch-008/001.md
+              - langs/rust/ch-008/002.md
+              - langs/rust/ch-008/003.md
+          - 8. 일반적인 컬렉션:
+              - langs/rust/ch-009/index.md
+              - langs/rust/ch-009/001.md
+              - langs/rust/ch-009/002.md
+              - langs/rust/ch-009/003.md
+          - 9. 에러 처리:
+              - langs/rust/ch-010/index.md
+              - langs/rust/ch-010/001.md
+              - langs/rust/ch-010/002.md
+              - langs/rust/ch-010/003.md
       - SQL:
           - Tutorials:
               - langs/sql/ch-001/001.md
