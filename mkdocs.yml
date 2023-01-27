@@ -154,6 +154,18 @@ nav:
           - base/memo/013.md
           - base/memo/014.md
           - base/memo/015.md
+      - AWS:
+          - IAM:
+              - IAM이란?:
+                  - base/aws/iam/ch-001/index.md
+                  - base/aws/iam/ch-001/001.md
+                  - base/aws/iam/ch-001/002.md
+                  - base/aws/iam/ch-001/003.md
+              - 시작하기:
+                  - base/aws/iam/ch-002/index.md
+                  - base/aws/iam/ch-002/001.md
+                  - base/aws/iam/ch-002/002.md
+                  - base/aws/iam/ch-002/003.md
       - Git:
           - base/git/001.md
           - base/git/002.md

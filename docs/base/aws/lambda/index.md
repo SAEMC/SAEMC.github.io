@@ -1,0 +1,14 @@
+---
+hide:
+  - footer
+---
+
+# Lambda
+
+---
+
+---
+
+## References
+
+-
