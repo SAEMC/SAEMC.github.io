@@ -21,7 +21,7 @@ hide:
 - 직접 사용자를 생성하여 Administrators 그룹에 추가한다.
 - AWS Management Console에 로그인할 수 있도록 사용자 암호를 생성한다.
 
-유효한 모든 AWS 계정 리소스에 액세스할 수 있는 권한을 Administrators 그룹에게 부여한다. 여기에서 유효한 리소스란 사용 중이거나 등록한 모든 AWS 제품을 의미한다. Administrators 그룹 사용자는 AWS 계정의 보안 자격 증명만 제외하고 AWS 계정 정보에 액세스할 수 있다.
+유효한 모든 AWS 계정 리소스에 액세스할 수 있는 권한을 Administrators 그룹에게 부여한다. 여기에서 유효한 리소스란 사용 중이거나 등록한 모든 AWS 제품을 의미한다. Administrators 그룹 사용자는 AWS 계정의 보안 크레덴셜만 제외하고 AWS 계정 정보에 액세스할 수 있다.
 
 ---
 

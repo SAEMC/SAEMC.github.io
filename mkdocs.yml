@@ -166,6 +166,23 @@ nav:
                   - base/aws/iam/ch-002/001.md
                   - base/aws/iam/ch-002/002.md
                   - base/aws/iam/ch-002/003.md
+              - AWS에 로그인:
+                  - base/aws/iam/ch-003/index.md
+                  - base/aws/iam/ch-003/001.md
+              - ID:
+                  - base/aws/iam/ch-004/index.md
+                  - base/aws/iam/ch-004/001.md
+                  - base/aws/iam/ch-004/002.md
+                  - base/aws/iam/ch-004/003.md
+                  - base/aws/iam/ch-004/004.md
+                  - base/aws/iam/ch-004/005.md
+                  - base/aws/iam/ch-004/006.md
+              - 액세스 관리:
+                  - base/aws/iam/ch-005/index.md
+                  - base/aws/iam/ch-005/001.md
+                  - base/aws/iam/ch-005/002.md
+                  - base/aws/iam/ch-005/003.md
+                  - base/aws/iam/ch-005/004.md
       - Git:
           - base/git/001.md
           - base/git/002.md
