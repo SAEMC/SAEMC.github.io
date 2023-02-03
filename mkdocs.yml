@@ -202,6 +202,32 @@ nav:
               - 보안: base/aws/s3/ch-007/001.md
               - 스토리지 관리: base/aws/s3/ch-008/001.md
               - 모니터링: base/aws/s3/ch-009/001.md
+          - Lambda:
+              - Lambda란?: base/aws/lambda/ch-001/001.md
+              - 시작하기: base/aws/lambda/ch-002/001.md
+              - Lambda 기본:
+                  - base/aws/lambda/ch-003/index.md
+                  - base/aws/lambda/ch-003/001.md
+                  - base/aws/lambda/ch-003/002.md
+                  - base/aws/lambda/ch-003/003.md
+                  - base/aws/lambda/ch-003/004.md
+                  - base/aws/lambda/ch-003/005.md
+                  - base/aws/lambda/ch-003/006.md
+                  - base/aws/lambda/ch-003/007.md
+                  - base/aws/lambda/ch-003/008.md
+                  - base/aws/lambda/ch-003/009.md
+              - 권한: base/aws/lambda/ch-004/001.md
+              - Lambda 런타임: base/aws/lambda/ch-005/001.md
+              - 실행 환경: base/aws/lambda/ch-006/001.md
+              - 함수 배포: base/aws/lambda/ch-007/001.md
+              - 컨테이너 이미지 생성: base/aws/lambda/ch-008/001.md
+              - 함수 구성: base/aws/lambda/ch-009/001.md
+              - 함수 관리: base/aws/lambda/ch-010/001.md
+              - 함수 호출: base/aws/lambda/ch-011/001.md
+              - 함수 URL: base/aws/lambda/ch-012/001.md
+              - 다른 서비스와 함께 사용: base/aws/lambda/ch-013/001.md
+              - 모니터링: base/aws/lambda/ch-014/001.md
+              - 보안: base/aws/lambda/ch-015/001.md
       - Git:
           - base/git/001.md
           - base/git/002.md
