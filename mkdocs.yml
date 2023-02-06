@@ -202,6 +202,19 @@ nav:
               - 보안: base/aws/s3/ch-007/001.md
               - 스토리지 관리: base/aws/s3/ch-008/001.md
               - 모니터링: base/aws/s3/ch-009/001.md
+          - API Gateway:
+              - API Gateway란?:
+                  - base/aws/api-gateway/ch-001/index.md
+                  - base/aws/api-gateway/ch-001/001.md
+                  - base/aws/api-gateway/ch-001/002.md
+                  - base/aws/api-gateway/ch-001/003.md
+              - 시작하기: base/aws/api-gateway/ch-002/001.md
+              - 자습서 및 워크숍: base/aws/api-gateway/ch-003/001.md
+              - REST API 작업: base/aws/api-gateway/ch-004/001.md
+              - HTTP API 작업: base/aws/api-gateway/ch-005/001.md
+              - WebSocket API 작업: base/aws/api-gateway/ch-006/001.md
+              - OpenAPI 확장: base/aws/api-gateway/ch-007/001.md
+              - 보안: base/aws/api-gateway/ch-008/001.md
           - Lambda:
               - Lambda란?: base/aws/lambda/ch-001/001.md
               - 시작하기: base/aws/lambda/ch-002/001.md
