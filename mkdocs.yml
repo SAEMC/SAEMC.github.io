@@ -183,6 +183,31 @@ nav:
                   - base/aws/iam/ch-005/002.md
                   - base/aws/iam/ch-005/003.md
                   - base/aws/iam/ch-005/004.md
+          - Route 53:
+              - Route 53이란?:
+                  - base/aws/route-53/ch-001/index.md
+                  - base/aws/route-53/ch-001/001.md
+                  - base/aws/route-53/ch-001/002.md
+                  - base/aws/route-53/ch-001/003.md
+                  - base/aws/route-53/ch-001/004.md
+                  - base/aws/route-53/ch-001/005.md
+                  - base/aws/route-53/ch-001/006.md
+                  - base/aws/route-53/ch-001/007.md
+              - 시작하기:
+                  - base/aws/route-53/ch-002/index.md
+                  - base/aws/route-53/ch-002/001.md
+                  - base/aws/route-53/ch-002/002.md
+              - 다른 서비스와의 통합: base/aws/route-53/ch-003/001.md
+              - DNS 도메인 이름 형식: base/aws/route-53/ch-004/001.md
+              - 도메인 이름 등록하기: base/aws/route-53/ch-005/001.md
+              - Amazon Route 53을 DNS 서비스로 구성: base/aws/route-53/ch-006/001.md
+              - VPC와 네트워크 간 DNS 쿼리 해석: base/aws/route-53/ch-007/001.md
+              - AWS 리소스로 인터넷 트래픽 라우팅: base/aws/route-53/ch-008/001.md
+              - 상태 확인 생성 및 DNS 장애 조치 구성: base/aws/route-53/ch-009/001.md
+              - Route  53 Resolver DNS Firewall: base/aws/route-53/ch-010/001.md
+              - AWS CloudFormation 리소스 생성: base/aws/route-53/ch-011/001.md
+              - 보안: base/aws/route-53/ch-012/001.md
+              - 모니터링: base/aws/route-53/ch-013/001.md
           - S3:
               - S3란?: base/aws/s3/ch-001/001.md
               - 시작하기:
