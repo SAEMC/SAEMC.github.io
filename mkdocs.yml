@@ -227,6 +227,30 @@ nav:
               - 보안: base/aws/s3/ch-007/001.md
               - 스토리지 관리: base/aws/s3/ch-008/001.md
               - 모니터링: base/aws/s3/ch-009/001.md
+          - CloudFront:
+              - CloudFront란?:
+                  - base/aws/cloudfront/ch-001/index.md
+                  - base/aws/cloudfront/ch-001/001.md
+                  - base/aws/cloudfront/ch-001/002.md
+                  - base/aws/cloudfront/ch-001/003.md
+                  - base/aws/cloudfront/ch-001/004.md
+                  - base/aws/cloudfront/ch-001/005.md
+                  - base/aws/cloudfront/ch-001/006.md
+              - 시작하기:
+                  - base/aws/cloudfront/ch-002/index.md
+                  - base/aws/cloudfront/ch-002/001.md
+                  - base/aws/cloudfront/ch-002/002.md
+              - 배포 작업: base/aws/cloudfront/ch-003/001.md
+              - 정책 작업: base/aws/cloudfront/ch-004/001.md
+              - 콘텐츠 추가, 제거 또는 바꾸기: base/aws/cloudfront/ch-005/001.md
+              - 보안 액세스 구성 및 콘텐츠에 대한 액세스 제한: base/aws/cloudfront/ch-006/001.md
+              - 캐싱 및 가용성 최적화: base/aws/cloudfront/ch-007/001.md
+              - 문제 해결: base/aws/cloudfront/ch-008/001.md
+              - 요청 및 응답 동작: base/aws/cloudfront/ch-009/001.md
+              - 온디맨드 비디오(VOD) 및 라이브 스트리밍 비디오: base/aws/cloudfront/ch-010/001.md
+              - 엣지 함수를 사용한 사용자 지정: base/aws/cloudfront/ch-011/001.md
+              - 보고서, 지표 및 로그: base/aws/cloudfront/ch-012/001.md
+              - 보안: base/aws/cloudfront/ch-013/001.md
           - API Gateway:
               - API Gateway란?:
                   - base/aws/api-gateway/ch-001/index.md
