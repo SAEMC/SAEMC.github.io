@@ -183,6 +183,16 @@ nav:
                   - base/aws/iam/ch-005/002.md
                   - base/aws/iam/ch-005/003.md
                   - base/aws/iam/ch-005/004.md
+          - Cognito:
+              - Cognito란?: base/aws/cognito/ch-001/001.md
+              - 시작하기: base/aws/cognito/ch-002/001.md
+              - 일반적인 시나리오: base/aws/cognito/ch-003/001.md
+              - 자습서: base/aws/cognito/ch-004/001.md
+              - 앱과 통합: base/aws/cognito/ch-005/001.md
+              - 멀티 테넌트 애플리케이션 모범 사례: base/aws/cognito/ch-006/001.md
+              - 사용자 풀: base/aws/cognito/ch-007/001.md
+              - 아이덴터티 풀: base/aws/cognito/ch-008/001.md
+              - Congito Sync: base/aws/cognito/ch-009/001.md
           - Route 53:
               - Route 53이란?:
                   - base/aws/route-53/ch-001/index.md
@@ -206,8 +216,7 @@ nav:
               - 상태 확인 생성 및 DNS 장애 조치 구성: base/aws/route-53/ch-009/001.md
               - Route  53 Resolver DNS Firewall: base/aws/route-53/ch-010/001.md
               - AWS CloudFormation 리소스 생성: base/aws/route-53/ch-011/001.md
-              - 보안: base/aws/route-53/ch-012/001.md
-              - 모니터링: base/aws/route-53/ch-013/001.md
+              - 모니터링: base/aws/route-53/ch-012/001.md
           - S3:
               - S3란?: base/aws/s3/ch-001/001.md
               - 시작하기:
@@ -224,9 +233,8 @@ nav:
               - 객체 작업: base/aws/s3/ch-004/001.md
               - 액세스 포인트 작업: base/aws/s3/ch-005/001.md
               - 다중 리전 액세스 포인트 작업: base/aws/s3/ch-006/001.md
-              - 보안: base/aws/s3/ch-007/001.md
-              - 스토리지 관리: base/aws/s3/ch-008/001.md
-              - 모니터링: base/aws/s3/ch-009/001.md
+              - 스토리지 관리: base/aws/s3/ch-007/001.md
+              - 모니터링: base/aws/s3/ch-008/001.md
           - CloudFront:
               - CloudFront란?:
                   - base/aws/cloudfront/ch-001/index.md
@@ -250,7 +258,6 @@ nav:
               - 온디맨드 비디오(VOD) 및 라이브 스트리밍 비디오: base/aws/cloudfront/ch-010/001.md
               - 엣지 함수를 사용한 사용자 지정: base/aws/cloudfront/ch-011/001.md
               - 보고서, 지표 및 로그: base/aws/cloudfront/ch-012/001.md
-              - 보안: base/aws/cloudfront/ch-013/001.md
           - API Gateway:
               - API Gateway란?:
                   - base/aws/api-gateway/ch-001/index.md
@@ -263,7 +270,6 @@ nav:
               - HTTP API 작업: base/aws/api-gateway/ch-005/001.md
               - WebSocket API 작업: base/aws/api-gateway/ch-006/001.md
               - OpenAPI 확장: base/aws/api-gateway/ch-007/001.md
-              - 보안: base/aws/api-gateway/ch-008/001.md
           - Lambda:
               - Lambda란?: base/aws/lambda/ch-001/001.md
               - 시작하기: base/aws/lambda/ch-002/001.md
@@ -289,7 +295,6 @@ nav:
               - 함수 URL: base/aws/lambda/ch-012/001.md
               - 다른 서비스와 함께 사용: base/aws/lambda/ch-013/001.md
               - 모니터링: base/aws/lambda/ch-014/001.md
-              - 보안: base/aws/lambda/ch-015/001.md
       - Git:
           - base/git/001.md
           - base/git/002.md
