@@ -155,6 +155,68 @@ nav:
           - base/memo/014.md
           - base/memo/015.md
       - AWS:
+          - API Gateway:
+              - API Gateway란?:
+                  - base/aws/api-gateway/ch-001/index.md
+                  - base/aws/api-gateway/ch-001/001.md
+                  - base/aws/api-gateway/ch-001/002.md
+                  - base/aws/api-gateway/ch-001/003.md
+              - 시작하기: base/aws/api-gateway/ch-002/001.md
+              - 자습서 및 워크숍: base/aws/api-gateway/ch-003/001.md
+              - REST API 작업: base/aws/api-gateway/ch-004/001.md
+              - HTTP API 작업: base/aws/api-gateway/ch-005/001.md
+              - WebSocket API 작업: base/aws/api-gateway/ch-006/001.md
+              - OpenAPI 확장: base/aws/api-gateway/ch-007/001.md
+          - CloudFormation:
+              - CloudFormation이란?:
+                  - base/aws/cloudformation/ch-001/index.md
+                  - base/aws/cloudformation/ch-001/001.md
+                  - base/aws/cloudformation/ch-001/002.md
+              - 시작하기:
+                  - base/aws/cloudformation/ch-002/index.md
+                  - base/aws/cloudformation/ch-002/001.md
+                  - base/aws/cloudformation/ch-002/002.md
+                  - base/aws/cloudformation/ch-002/003.md
+              - 모범 사례: base/aws/cloudformation/ch-003/001.md
+              - 지속적 전달: base/aws/cloudformation/ch-004/001.md
+              - 템플릿 사용: base/aws/cloudformation/ch-005/001.md
+              - 스택 작업: base/aws/cloudformation/ch-006/001.md
+              - StackSets 사용: base/aws/cloudformation/ch-007/001.md
+              - CloudFormation 레지스트리 사용: base/aws/cloudformation/ch-008/001.md
+              - 템플릿 참조: base/aws/cloudformation/ch-009/001.md
+          - CloudFront:
+              - CloudFront란?:
+                  - base/aws/cloudfront/ch-001/index.md
+                  - base/aws/cloudfront/ch-001/001.md
+                  - base/aws/cloudfront/ch-001/002.md
+                  - base/aws/cloudfront/ch-001/003.md
+                  - base/aws/cloudfront/ch-001/004.md
+                  - base/aws/cloudfront/ch-001/005.md
+                  - base/aws/cloudfront/ch-001/006.md
+              - 시작하기:
+                  - base/aws/cloudfront/ch-002/index.md
+                  - base/aws/cloudfront/ch-002/001.md
+                  - base/aws/cloudfront/ch-002/002.md
+              - 배포 작업: base/aws/cloudfront/ch-003/001.md
+              - 정책 작업: base/aws/cloudfront/ch-004/001.md
+              - 콘텐츠 추가, 제거 또는 바꾸기: base/aws/cloudfront/ch-005/001.md
+              - 보안 액세스 구성 및 콘텐츠에 대한 액세스 제한: base/aws/cloudfront/ch-006/001.md
+              - 캐싱 및 가용성 최적화: base/aws/cloudfront/ch-007/001.md
+              - 문제 해결: base/aws/cloudfront/ch-008/001.md
+              - 요청 및 응답 동작: base/aws/cloudfront/ch-009/001.md
+              - 온디맨드 비디오(VOD) 및 라이브 스트리밍 비디오: base/aws/cloudfront/ch-010/001.md
+              - 엣지 함수를 사용한 사용자 지정: base/aws/cloudfront/ch-011/001.md
+              - 보고서, 지표 및 로그: base/aws/cloudfront/ch-012/001.md
+          - Cognito:
+              - Cognito란?: base/aws/cognito/ch-001/001.md
+              - 시작하기: base/aws/cognito/ch-002/001.md
+              - 일반적인 시나리오: base/aws/cognito/ch-003/001.md
+              - 자습서: base/aws/cognito/ch-004/001.md
+              - 앱과 통합: base/aws/cognito/ch-005/001.md
+              - 멀티 테넌트 애플리케이션 모범 사례: base/aws/cognito/ch-006/001.md
+              - 사용자 풀: base/aws/cognito/ch-007/001.md
+              - 아이덴터티 풀: base/aws/cognito/ch-008/001.md
+              - Congito Sync: base/aws/cognito/ch-009/001.md
           - IAM:
               - IAM이란?:
                   - base/aws/iam/ch-001/index.md
@@ -183,16 +245,31 @@ nav:
                   - base/aws/iam/ch-005/002.md
                   - base/aws/iam/ch-005/003.md
                   - base/aws/iam/ch-005/004.md
-          - Cognito:
-              - Cognito란?: base/aws/cognito/ch-001/001.md
-              - 시작하기: base/aws/cognito/ch-002/001.md
-              - 일반적인 시나리오: base/aws/cognito/ch-003/001.md
-              - 자습서: base/aws/cognito/ch-004/001.md
-              - 앱과 통합: base/aws/cognito/ch-005/001.md
-              - 멀티 테넌트 애플리케이션 모범 사례: base/aws/cognito/ch-006/001.md
-              - 사용자 풀: base/aws/cognito/ch-007/001.md
-              - 아이덴터티 풀: base/aws/cognito/ch-008/001.md
-              - Congito Sync: base/aws/cognito/ch-009/001.md
+          - Lambda:
+              - Lambda란?: base/aws/lambda/ch-001/001.md
+              - 시작하기: base/aws/lambda/ch-002/001.md
+              - Lambda 기본:
+                  - base/aws/lambda/ch-003/index.md
+                  - base/aws/lambda/ch-003/001.md
+                  - base/aws/lambda/ch-003/002.md
+                  - base/aws/lambda/ch-003/003.md
+                  - base/aws/lambda/ch-003/004.md
+                  - base/aws/lambda/ch-003/005.md
+                  - base/aws/lambda/ch-003/006.md
+                  - base/aws/lambda/ch-003/007.md
+                  - base/aws/lambda/ch-003/008.md
+                  - base/aws/lambda/ch-003/009.md
+              - 권한: base/aws/lambda/ch-004/001.md
+              - Lambda 런타임: base/aws/lambda/ch-005/001.md
+              - 실행 환경: base/aws/lambda/ch-006/001.md
+              - 함수 배포: base/aws/lambda/ch-007/001.md
+              - 컨테이너 이미지 생성: base/aws/lambda/ch-008/001.md
+              - 함수 구성: base/aws/lambda/ch-009/001.md
+              - 함수 관리: base/aws/lambda/ch-010/001.md
+              - 함수 호출: base/aws/lambda/ch-011/001.md
+              - 함수 URL: base/aws/lambda/ch-012/001.md
+              - 다른 서비스와 함께 사용: base/aws/lambda/ch-013/001.md
+              - 모니터링: base/aws/lambda/ch-014/001.md
           - Route 53:
               - Route 53이란?:
                   - base/aws/route-53/ch-001/index.md
@@ -235,66 +312,6 @@ nav:
               - 다중 리전 액세스 포인트 작업: base/aws/s3/ch-006/001.md
               - 스토리지 관리: base/aws/s3/ch-007/001.md
               - 모니터링: base/aws/s3/ch-008/001.md
-          - CloudFront:
-              - CloudFront란?:
-                  - base/aws/cloudfront/ch-001/index.md
-                  - base/aws/cloudfront/ch-001/001.md
-                  - base/aws/cloudfront/ch-001/002.md
-                  - base/aws/cloudfront/ch-001/003.md
-                  - base/aws/cloudfront/ch-001/004.md
-                  - base/aws/cloudfront/ch-001/005.md
-                  - base/aws/cloudfront/ch-001/006.md
-              - 시작하기:
-                  - base/aws/cloudfront/ch-002/index.md
-                  - base/aws/cloudfront/ch-002/001.md
-                  - base/aws/cloudfront/ch-002/002.md
-              - 배포 작업: base/aws/cloudfront/ch-003/001.md
-              - 정책 작업: base/aws/cloudfront/ch-004/001.md
-              - 콘텐츠 추가, 제거 또는 바꾸기: base/aws/cloudfront/ch-005/001.md
-              - 보안 액세스 구성 및 콘텐츠에 대한 액세스 제한: base/aws/cloudfront/ch-006/001.md
-              - 캐싱 및 가용성 최적화: base/aws/cloudfront/ch-007/001.md
-              - 문제 해결: base/aws/cloudfront/ch-008/001.md
-              - 요청 및 응답 동작: base/aws/cloudfront/ch-009/001.md
-              - 온디맨드 비디오(VOD) 및 라이브 스트리밍 비디오: base/aws/cloudfront/ch-010/001.md
-              - 엣지 함수를 사용한 사용자 지정: base/aws/cloudfront/ch-011/001.md
-              - 보고서, 지표 및 로그: base/aws/cloudfront/ch-012/001.md
-          - API Gateway:
-              - API Gateway란?:
-                  - base/aws/api-gateway/ch-001/index.md
-                  - base/aws/api-gateway/ch-001/001.md
-                  - base/aws/api-gateway/ch-001/002.md
-                  - base/aws/api-gateway/ch-001/003.md
-              - 시작하기: base/aws/api-gateway/ch-002/001.md
-              - 자습서 및 워크숍: base/aws/api-gateway/ch-003/001.md
-              - REST API 작업: base/aws/api-gateway/ch-004/001.md
-              - HTTP API 작업: base/aws/api-gateway/ch-005/001.md
-              - WebSocket API 작업: base/aws/api-gateway/ch-006/001.md
-              - OpenAPI 확장: base/aws/api-gateway/ch-007/001.md
-          - Lambda:
-              - Lambda란?: base/aws/lambda/ch-001/001.md
-              - 시작하기: base/aws/lambda/ch-002/001.md
-              - Lambda 기본:
-                  - base/aws/lambda/ch-003/index.md
-                  - base/aws/lambda/ch-003/001.md
-                  - base/aws/lambda/ch-003/002.md
-                  - base/aws/lambda/ch-003/003.md
-                  - base/aws/lambda/ch-003/004.md
-                  - base/aws/lambda/ch-003/005.md
-                  - base/aws/lambda/ch-003/006.md
-                  - base/aws/lambda/ch-003/007.md
-                  - base/aws/lambda/ch-003/008.md
-                  - base/aws/lambda/ch-003/009.md
-              - 권한: base/aws/lambda/ch-004/001.md
-              - Lambda 런타임: base/aws/lambda/ch-005/001.md
-              - 실행 환경: base/aws/lambda/ch-006/001.md
-              - 함수 배포: base/aws/lambda/ch-007/001.md
-              - 컨테이너 이미지 생성: base/aws/lambda/ch-008/001.md
-              - 함수 구성: base/aws/lambda/ch-009/001.md
-              - 함수 관리: base/aws/lambda/ch-010/001.md
-              - 함수 호출: base/aws/lambda/ch-011/001.md
-              - 함수 URL: base/aws/lambda/ch-012/001.md
-              - 다른 서비스와 함께 사용: base/aws/lambda/ch-013/001.md
-              - 모니터링: base/aws/lambda/ch-014/001.md
       - Git:
           - base/git/001.md
           - base/git/002.md
