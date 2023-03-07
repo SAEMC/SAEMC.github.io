@@ -312,6 +312,13 @@ nav:
               - 다중 리전 액세스 포인트 작업: base/aws/s3/ch-006/001.md
               - 스토리지 관리: base/aws/s3/ch-007/001.md
               - 모니터링: base/aws/s3/ch-008/001.md
+          - VPC:
+              - VPC란?: base/aws/vpc/ch-001/001.md
+              - VPC 작동 방식: base/aws/vpc/ch-002/001.md
+              - 시작하기: base/aws/vpc/ch-003/001.md
+              - Virtual Private Cloud: base/aws/vpc/ch-004/001.md
+              - 서브넷: base/aws/vpc/ch-005/001.md
+              - VPC 연결: base/aws/vpc/ch-006/001.md
       - Git:
           - base/git/001.md
           - base/git/002.md
