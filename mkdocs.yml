@@ -605,6 +605,25 @@ nav:
           - langs/python/037.md
           - langs/python/038.md
           - langs/python/039.md
+      - Rust:
+          - 1. Getting Started:
+              - langs/rust/ch-001/index.md
+              - langs/rust/ch-001/001.md
+              - langs/rust/ch-001/002.md
+              - langs/rust/ch-001/003.md
+          - 2. Programming a Guessing Game: langs/rust/ch-002/001.md
+          - 3. Common Programming Concepts:
+              - langs/rust/ch-003/index.md
+              - langs/rust/ch-003/001.md
+              - langs/rust/ch-003/002.md
+              - langs/rust/ch-003/003.md
+              - langs/rust/ch-003/004.md
+              - langs/rust/ch-003/005.md
+          - 4. Understanding Ownership:
+              - langs/rust/ch-004/index.md
+              - langs/rust/ch-004/001.md
+              - langs/rust/ch-004/002.md
+              - langs/rust/ch-004/003.md
       - SQL:
           - Tutorials:
               - langs/sql/ch-001/001.md
